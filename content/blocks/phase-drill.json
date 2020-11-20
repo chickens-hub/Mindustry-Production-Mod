@@ -3,7 +3,7 @@
 	"description": "This is the best drill you can get (without other mods).",
 	"type": "Drill",
 	"size": 1,
-	"tier": 4,
+	"tier": 2,
 	"drillTime": 225,
 	"consumes": {
 		"power": 0,
