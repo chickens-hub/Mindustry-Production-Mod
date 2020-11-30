@@ -9,7 +9,7 @@
 		"power": 0,
 		"item": {
 			"item": "copper", 
-			"amount": 0.1,
+			"amount": 1,
 			"booster": true,
 			"optional": true
 		}
@@ -20,5 +20,5 @@
 		{ "item": "titanium", "amount": 50 }
 	],
 	"category": "production",
-	"research": "duo"
+	"research": "cultivator"
 }
